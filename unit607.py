@@ -1,6 +1,8 @@
 # Created By: Amin Zeina 	
 # Created On: Apr 2018
 
+# User guesses age
+
 age = 15
 
 while True:
